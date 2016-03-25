@@ -3,4 +3,4 @@
 This is a practice repository
 
 * Information Only
-  * And more info
+  * And **more** info
