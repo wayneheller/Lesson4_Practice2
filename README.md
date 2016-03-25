@@ -4,7 +4,7 @@ This is a practice repository
 
 * Information Only
   * And **more** info
-  * And ~This was removed~
+  * And ~~This was removed~~
   
 ### This is a code snippet
 ```python
